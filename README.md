@@ -7,7 +7,7 @@ This is a demo repository to teach how to set up social authentication (and requ
 * [Pipenv](https://pypi.org/project/pipenv/)
 
 ## Running the application
-1. Clone the project to your machine ```[git clone https://github.com/Jordanirabor/django_social_app]```
+1. Clone the project to your machine ```[git clone https://github.com/Nicolas-2580/django_social_app]```
 2. Navigate into the diretory ```[cd django_social_app]```
 3. Source the virtual environment ```[pipenv shell]```
 4. Install the dependencies ```[pipenv install]```
